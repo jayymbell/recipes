@@ -4,12 +4,12 @@ Servings: 4
 
 ## Ingredients
 
-[ ] 1 lb Carrots, peeled and sliced into sticks or rounds  
-[ ] 2 tbsp Olive Oil or Butter  
-[ ] 2 cloves Garlic, minced (optional)  
-[ ] Salt & Black Pepper, to taste  
-[ ] 1 tsp Fresh or Dried Herbs (thyme, parsley, or rosemary)  
-[ ] 1 tsp Honey or Maple Syrup (optional, for a touch of sweetness)  
+- [ ] 1 lb Carrots, peeled and sliced into sticks or rounds  
+- [ ] 2 tbsp Olive Oil or Butter  
+- [ ] 2 cloves Garlic, minced (optional)  
+- [ ] Salt & Black Pepper, to taste  
+- [ ] 1 tsp Fresh or Dried Herbs (thyme, parsley, or rosemary)  
+- [ ] 1 tsp Honey or Maple Syrup (optional, for a touch of sweetness)  
 
 ## Instructions
 

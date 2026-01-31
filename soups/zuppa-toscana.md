@@ -4,16 +4,16 @@ Servings: 4–6
 
 ## Ingredients
 
-[ ] 1 lb Italian Sausage, sliced or crumbled  
-[ ] 4–5 Medium Potatoes, thinly sliced or diced  
-[ ] 1 medium Onion, diced  
-[ ] 2–3 cloves Garlic, minced  
-[ ] 4 cups Chicken Broth  
-[ ] 1 cup Heavy Cream  
-[ ] 2 cups Kale, chopped  
-[ ] 2 tbsp Olive Oil  
-[ ] Salt & Black Pepper, to taste  
-[ ] Red Pepper Flakes (optional)  
+- [ ] 1 lb Italian Sausage, sliced or crumbled  
+- [ ] 4–5 Medium Potatoes, thinly sliced or diced  
+- [ ] 1 medium Onion, diced  
+- [ ] 2–3 cloves Garlic, minced  
+- [ ] 4 cups Chicken Broth  
+- [ ] 1 cup Heavy Cream  
+- [ ] 2 cups Kale, chopped  
+- [ ] 2 tbsp Olive Oil  
+- [ ] Salt & Black Pepper, to taste  
+- [ ] Red Pepper Flakes (optional)  
 
 ## Instructions
 

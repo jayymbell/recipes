@@ -4,19 +4,19 @@ Servings: 4–6
 
 ## Ingredients
 
-[ ] 3–4 lb Chuck Roast  
-[ ] 2 tbsp Olive Oil  
-[ ] 3 c Beef Broth  
-[ ] 1 c Dry Red Wine  
-[ ] 1 medium Onion, sliced  
-[ ] 3 Carrots, cut into chunks  
-[ ] 3–4 Yukon Gold Potatoes, quartered  
-[ ] 3 Celery stalks, cut into chunks  
-[ ] 3 cloves Garlic, minced  
-[ ] 1 tsp Dried Thyme  
-[ ] 1 tsp Dried Rosemary  
-[ ] 1 Bay Leaf  
-[ ] Salt & Black Pepper, to taste  
+- [ ] 3–4 lb Chuck Roast  
+- [ ] 2 tbsp Olive Oil  
+- [ ] 3 c Beef Broth  
+- [ ] 1 c Dry Red Wine  
+- [ ] 1 medium Onion, sliced  
+- [ ] 3 Carrots, cut into chunks  
+- [ ] 3–4 Yukon Gold Potatoes, quartered  
+- [ ] 3 Celery stalks, cut into chunks  
+- [ ] 3 cloves Garlic, minced  
+- [ ] 1 tsp Dried Thyme  
+- [ ] 1 tsp Dried Rosemary  
+- [ ] 1 Bay Leaf  
+- [ ] Salt & Black Pepper, to taste  
 
 ## Instructions
 

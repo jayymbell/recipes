@@ -4,17 +4,17 @@ Servings: 4
 
 ## Ingredients
 
-[ ] 4 Large Bell Peppers, tops cut off and seeds removed  
-[ ] 1 lb Italian Sausage, removed from casing  
-[ ] 1 cup Cooked Rice (white, brown, or wild)  
-[ ] 1 small Onion, diced  
-[ ] 2 cloves Garlic, minced  
-[ ] 2 cups Fresh Spinach, chopped  
-[ ] 1 tsp Dried Oregano  
-[ ] 1 tsp Dried Basil  
-[ ] Salt & Black Pepper, to taste  
-[ ] ½ cup Shredded Mozzarella or Parmesan Cheese  
-[ ] 2 tbsp Olive Oil  
+- [ ] 4 Large Bell Peppers, tops cut off and seeds removed  
+- [ ] 1 lb Italian Sausage, removed from casing  
+- [ ] 1 cup Cooked Rice (white, brown, or wild)  
+- [ ] 1 small Onion, diced  
+- [ ] 2 cloves Garlic, minced  
+- [ ] 2 cups Fresh Spinach, chopped  
+- [ ] 1 tsp Dried Oregano  
+- [ ] 1 tsp Dried Basil  
+- [ ] Salt & Black Pepper, to taste  
+- [ ] ½ cup Shredded Mozzarella or Parmesan Cheese  
+- [ ] 2 tbsp Olive Oil  
 
 ## Instructions
 

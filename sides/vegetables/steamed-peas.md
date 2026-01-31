@@ -4,11 +4,11 @@ Servings: 4
 
 ## Ingredients
 
-[ ] 2 cups Fresh or Frozen Peas  
-[ ] 1–2 tbsp Water  
-[ ] Salt & Black Pepper, to taste  
-[ ] 1 tsp Butter or Olive Oil (optional)  
-[ ] Optional: Fresh herbs (mint, parsley, or thyme)  
+- [ ] 2 cups Fresh or Frozen Peas  
+- [ ] 1–2 tbsp Water  
+- [ ] Salt & Black Pepper, to taste  
+- [ ] 1 tsp Butter or Olive Oil (optional)  
+- [ ] Optional: Fresh herbs (mint, parsley, or thyme)  
 
 ## Instructions
 

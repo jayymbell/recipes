@@ -4,18 +4,18 @@ Servings: 4
 
 ## Ingredients
 
-[ ] 1 lb Chicken Breast or Thighs, thinly sliced  
-[ ] 2–3 cups Mixed Vegetables (broccoli, bell peppers, carrots, snap peas, etc.)  
-[ ] 3 cloves Garlic, minced  
-[ ] 1 tbsp Ginger, minced  
-[ ] 3 tbsp Soy Sauce  
-[ ] 2 tbsp Oyster Sauce (optional)  
-[ ] 1 tbsp Sesame Oil  
-[ ] 1–2 tbsp Vegetable Oil (for cooking)  
-[ ] 1 tsp Cornstarch (optional, for thickening)  
-[ ] 2 tbsp Water (if using cornstarch)  
-[ ] Salt & Black Pepper, to taste  
-[ ] Optional: Green onions, sesame seeds for garnish  
+- [ ] 1 lb Chicken Breast or Thighs, thinly sliced  
+- [ ] 2–3 cups Mixed Vegetables (broccoli, bell peppers, carrots, snap peas, etc.)  
+- [ ] 3 cloves Garlic, minced  
+- [ ] 1 tbsp Ginger, minced  
+- [ ] 3 tbsp Soy Sauce  
+- [ ] 2 tbsp Oyster Sauce (optional)  
+- [ ] 1 tbsp Sesame Oil  
+- [ ] 1–2 tbsp Vegetable Oil (for cooking)  
+- [ ] 1 tsp Cornstarch (optional, for thickening)  
+- [ ] 2 tbsp Water (if using cornstarch)  
+- [ ] Salt & Black Pepper, to taste  
+- [ ] Optional: Green onions, sesame seeds for garnish  
 
 ## Instructions
 

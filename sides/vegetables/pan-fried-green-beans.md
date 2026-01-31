@@ -4,12 +4,12 @@ Servings: 4
 
 ## Ingredients
 
-[ ] 1 lb Fresh Green Beans, trimmed  
-[ ] 2 tbsp Olive Oil or Butter  
-[ ] 2 cloves Garlic, minced  
-[ ] Salt & Black Pepper, to taste  
-[ ] Red Pepper Flakes (optional)  
-[ ] Lemon Juice (optional)  
+- [ ] 1 lb Fresh Green Beans, trimmed  
+- [ ] 2 tbsp Olive Oil or Butter  
+- [ ] 2 cloves Garlic, minced  
+- [ ] Salt & Black Pepper, to taste  
+- [ ] Red Pepper Flakes (optional)  
+- [ ] Lemon Juice (optional)  
 
 ## Instructions
 

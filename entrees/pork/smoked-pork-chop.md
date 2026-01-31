@@ -4,24 +4,24 @@ Servings: 2–4
 
 ## Ingredients
 
-[ ] 4 Bone-In Pork Chops (1–1½ inches thick)  
-[ ] ¼–½ c BBQ Sauce (for coating)  
-[ ] 1 tbsp Brown Sugar  
-[ ] 1 tsp Paprika  
-[ ] 1 tsp Garlic Powder  
-[ ] 1 tsp Onion Powder  
-[ ] ½ tsp Black Pepper  
-[ ] ½ tsp Salt  
-[ ] ½ tsp Smoked Paprika (optional)  
+- [ ] 4 Bone-In Pork Chops (1–1½ inches thick)  
+- [ ] ¼–½ c BBQ Sauce (for coating)  
+- [ ] 1 tbsp Brown Sugar  
+- [ ] 1 tsp Paprika  
+- [ ] 1 tsp Garlic Powder  
+- [ ] 1 tsp Onion Powder  
+- [ ] ½ tsp Black Pepper  
+- [ ] ½ tsp Salt  
+- [ ] ½ tsp Smoked Paprika (optional)  
 
 ### Wet Brine Ingredients
 
-[ ] 4 c Water  
-[ ] ¼ c Salt  
-[ ] ¼ c Brown Sugar  
-[ ] 2 cloves Garlic, smashed  
-[ ] 1 tsp Black Peppercorns  
-[ ] Optional: Herbs like thyme, rosemary, or bay leaf  
+- [ ] 4 c Water  
+- [ ] ¼ c Salt  
+- [ ] ¼ c Brown Sugar  
+- [ ] 2 cloves Garlic, smashed  
+- [ ] 1 tsp Black Peppercorns  
+- [ ] Optional: Herbs like thyme, rosemary, or bay leaf  
 
 ## Instructions
 

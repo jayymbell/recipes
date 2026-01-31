@@ -4,20 +4,20 @@ Servings: 4–6
 
 ## Ingredients
 
-[ ] 1 lb Chicken Breast, diced or shredded  
-[ ] 4 c Chicken Broth  
-[ ] 2 cans White Beans (Cannellini or Great Northern), drained & rinsed  
-[ ] 1 can Diced Green Chiles  
-[ ] 1 cup Corn (fresh, canned, or frozen)  
-[ ] 1 medium Onion, diced  
-[ ] 3 cloves Garlic, minced  
-[ ] 1 tsp Ground Cumin  
-[ ] 1 tsp Chili Powder  
-[ ] ½ tsp Smoked Paprika  
-[ ] ½ tsp Dried Oregano  
-[ ] Salt & Black Pepper, to taste  
-[ ] 2 tbsp Olive Oil  
-[ ] 8 oz Cream Cheese, cubed  
+- [ ] 1 lb Chicken Breast, diced or shredded  
+- [ ] 4 c Chicken Broth  
+- [ ] 2 cans White Beans (Cannellini or Great Northern), drained & rinsed  
+- [ ] 1 can Diced Green Chiles  
+- [ ] 1 cup Corn (fresh, canned, or frozen)  
+- [ ] 1 medium Onion, diced  
+- [ ] 3 cloves Garlic, minced  
+- [ ] 1 tsp Ground Cumin  
+- [ ] 1 tsp Chili Powder  
+- [ ] ½ tsp Smoked Paprika  
+- [ ] ½ tsp Dried Oregano  
+- [ ] Salt & Black Pepper, to taste  
+- [ ] 2 tbsp Olive Oil  
+- [ ] 8 oz Cream Cheese, cubed  
 
 ## Instructions
 

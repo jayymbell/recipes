@@ -4,12 +4,12 @@ Servings: 4
 
 ## Ingredients
 
-[ ] 2 lbs Potatoes (Yukon Gold, Red, or Russet), cut into 1-inch cubes  
-[ ] 2–3 tbsp Olive Oil  
-[ ] 1 tsp Garlic Powder or 2 cloves Fresh Garlic, minced  
-[ ] 1 tsp Paprika (optional, for color and flavor)  
-[ ] 1 tsp Dried Herbs (rosemary, thyme, or oregano)  
-[ ] Salt & Black Pepper, to taste  
+- [ ] 2 lbs Potatoes (Yukon Gold, Red, or Russet), cut into 1-inch cubes  
+- [ ] 2–3 tbsp Olive Oil  
+- [ ] 1 tsp Garlic Powder or 2 cloves Fresh Garlic, minced  
+- [ ] 1 tsp Paprika (optional, for color and flavor)  
+- [ ] 1 tsp Dried Herbs (rosemary, thyme, or oregano)  
+- [ ] Salt & Black Pepper, to taste  
 
 ## Instructions
 

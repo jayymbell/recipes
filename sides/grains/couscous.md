@@ -4,11 +4,11 @@ Servings: 4
 
 ## Ingredients
 
-[ ] 1 cup Couscous  
-[ ] 1 1/4 cup Water or Broth (chicken or vegetable)  
-[ ] 1 tbsp Olive Oil or Butter  
-[ ] Salt, to taste  
-[ ] Optional: Fresh herbs (parsley, cilantro, or mint), lemon zest, or toasted nuts  
+- [ ] 1 cup Couscous  
+- [ ] 1 1/4 cup Water or Broth (chicken or vegetable)  
+- [ ] 1 tbsp Olive Oil or Butter  
+- [ ] Salt, to taste  
+- [ ] Optional: Fresh herbs (parsley, cilantro, or mint), lemon zest, or toasted nuts  
 
 ## Instructions
 

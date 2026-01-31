@@ -4,18 +4,18 @@ Servings: 4–6
 
 ## Ingredients
 
-[ ] 4 c Chicken Broth  
-[ ] 1 lb Chicken Breast, diced or shredded  
-[ ] 2 cans Cannellini Beans, drained & rinsed  
-[ ] 2 Carrots, diced  
-[ ] 2 Celery stalks, diced  
-[ ] 1 medium Onion, diced  
-[ ] 2 c Kale, chopped  
-[ ] 3 cloves Garlic, minced  
-[ ] 2 tbsp Olive Oil  
-[ ] 1 tsp Dried Rosemary  
-[ ] Salt & Black Pepper, to taste  
-[ ] Red Pepper Flakes (optional)  
+- [ ] 4 c Chicken Broth  
+- [ ] 1 lb Chicken Breast, diced or shredded  
+- [ ] 2 cans Cannellini Beans, drained & rinsed  
+- [ ] 2 Carrots, diced  
+- [ ] 2 Celery stalks, diced  
+- [ ] 1 medium Onion, diced  
+- [ ] 2 c Kale, chopped  
+- [ ] 3 cloves Garlic, minced  
+- [ ] 2 tbsp Olive Oil  
+- [ ] 1 tsp Dried Rosemary  
+- [ ] Salt & Black Pepper, to taste  
+- [ ] Red Pepper Flakes (optional)  
 
 ## Instructions
 

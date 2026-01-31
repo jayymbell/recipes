@@ -4,20 +4,20 @@ Servings: 4–6
 
 ## Ingredients
 
-[ ] 2 tbsp Olive Oil  
-[ ] 1 medium Onion, diced  
-[ ] 3 cloves Garlic, minced  
-[ ] 1–2 Jalapeños, diced (optional, adjust to heat preference)  
-[ ] 1 tsp Ground Cumin  
-[ ] 1 tsp Chili Powder  
-[ ] 4 cups Chicken or Vegetable Broth  
-[ ] 2 cans Pinto or Black Beans, drained and rinsed  
-[ ] 1 can (14 oz) Diced Tomatoes  
-[ ] 1 cup Corn (fresh, canned, or frozen)  
-[ ] Salt & Black Pepper, to taste  
-[ ] 1/4 cup Fresh Cilantro, chopped  
-[ ] Juice of 1 Lime  
-[ ] Optional toppings: Avocado, shredded cheese, tortilla strips, sour cream  
+- [ ] 2 tbsp Olive Oil  
+- [ ] 1 medium Onion, diced  
+- [ ] 3 cloves Garlic, minced  
+- [ ] 1–2 Jalapeños, diced (optional, adjust to heat preference)  
+- [ ] 1 tsp Ground Cumin  
+- [ ] 1 tsp Chili Powder  
+- [ ] 4 cups Chicken or Vegetable Broth  
+- [ ] 2 cans Pinto or Black Beans, drained and rinsed  
+- [ ] 1 can (14 oz) Diced Tomatoes  
+- [ ] 1 cup Corn (fresh, canned, or frozen)  
+- [ ] Salt & Black Pepper, to taste  
+- [ ] 1/4 cup Fresh Cilantro, chopped  
+- [ ] Juice of 1 Lime  
+- [ ] Optional toppings: Avocado, shredded cheese, tortilla strips, sour cream  
 
 ## Instructions
 
